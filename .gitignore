@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Temporary files
+data/temp/
+
+# Output images
+data/output/
+
+# Environment variables
+.env
